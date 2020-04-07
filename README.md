@@ -1,2 +1,4 @@
 # Beni-Hatirla
- Beni hatırla basit php uygulaması-cookie
+Php'de cookie ile basit bir beni hatırla uygulaması
+
+A simple remember me application with cookie on php
